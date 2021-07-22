@@ -9,8 +9,8 @@ In a new project, instantiate an instance of each of the generic collection clas
 - Queue<T>,
 - Stack<T>,
 - Dictionary<TKey, TValue>,
-- SortedList<TKey, TValue>, and
-- HashSet<T>).
+- SortedList<TKey, TValue>,
+- HashSet<T>.
 #
 Insert 5 values of a type of your choosing into each of these collections,
 then iterate over the collection and print each value to the console. 
